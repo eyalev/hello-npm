@@ -1,0 +1,13 @@
+{
+  "name": "@eyalev/hello",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "eyalev/hello-npm",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "hello",
+    "package"
+  ]
+}
